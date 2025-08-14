@@ -63,6 +63,7 @@ Once integrated, deploy your site as usual. The noscript fallback will appear se
 
 ### Demo: [Live Example](https://ranjit1922.github.io/noscript-html-template)
 
-### License: Apache License 2.0
+### License: [Apache License 2.0](LICENSE.md)
 
 ---
+
